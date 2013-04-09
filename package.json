@@ -2,22 +2,18 @@
   "author": "Adam Shaw, Jarno Kurlin",
   "name": "fullcalendar-browser",
   "description": "fullcalendar npm package (for browser, not for node).",
-  "version": "1.5.4-1",
-  "homepage": "http://tux.fi/~jarnok/fullcalendar-resourceviews/",
+  "version": "1.6.0-1",
+  "homepage": "http://arshaw.com/fullcalendar/",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/jarnokurlin/fullcalendar/blob/master/MIT-LICENSE.txt"
-    },
-    {
-      "type": "GPL",
-      "url": "https://github.com/jarnokurlin/fullcalendar/blob/master/GPL-LICENSE.txt"
+      "url": "http://arshaw.com/js/fullcalendar-1.6.0/license.txt"
     }
   ],
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kapouer/fullcalendar-browser.git"
+    "url": "git://github.com/inaes-tic/fullcalendar-browser.git"
   },
   "dependencies": {
     "jquery-browser": "1.8.x",
